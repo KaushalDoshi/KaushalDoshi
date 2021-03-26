@@ -1,17 +1,19 @@
 <h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
-<h3>Hey! This is ANSH LUTHRA </h3>
+<h3>Hey! This is KAUSHAL DOSHI </h3>
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
 <img src="ss.png">
-ANSH'S LIFE
-STUDENT
-I'M AN AMBIVERT|A TECH GEEK, PASSIONATE ABOUT NATURE, LIFE, CARS , HILLS AND A FREAK GLOBETROTTER
-I DO CODE FOR CASH, AND FOR THAT SMILE ON MY FACE!
-CONTENT WRITER AT TIMES,MULTI-LINGUAL
+KAUSHAL'S LIFE
+PROFESSIONAL
+I'M AN SMART|A TECH GEEK, PASSIONATE ABOUT TECHNOLOGY, MUSIC, MOVIES AND GAMES
+I DO CODE FOR PASHION AND LIFE, AND FOR THAT SMILE ON YOUR FACE!
+CONTENT WRITER AT TIMES, TECHNICAL ARTICLE AND BLOG WRITER!
 <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anshluthra1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Anshluthra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anshluthra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anshluthraa1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Anshluthra34)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](anshluthra.herokuapp.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KaushalDoshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaushal-doshi-b482ab37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kaushaladoshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kaushaldoshi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kaushycreativty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.kd-secure.xyz) 
 
-
+REACH ME FOR WORKS RELATED TO VIRTUAL ASSISTANT, DATABASE DEVELOPER, CLOUD DEVELOPER, CYBERSECURITY BUG BOUNTY
+SUBJECT MATTER EXPERT FOR MATHEMATICS AND COMPUTER SCIENCE AT TRANSTUTORS AND MENTOR AT CODEMENTOR
+EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGANIZATION, GROWTH HACKER
 
 ## ⚡ Languages/Tech:
 <p>	
@@ -35,8 +37,15 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
  - CSS3 
  - JavaScript 
  - BootStrap
+ - Wordpress
+ - SQL
+ - SSRS
+ - SSIS
+ - Tableau
+ - PowerBI
  - Git
- - CLOUD COMPUTING
+ - Azure Cloud
+ - Usability and Design Testing
  - CYBER SECURITY  
  - Content Writing'
  -MS-EXCEL AND POWERPOINT
@@ -72,11 +81,11 @@ CONTENT WRITER AT TIMES,MULTI-LINGUAL
 			
  ### Profile Views :<br>
  
-  <img src="https://profile-counter.glitch.me/Anshluthra1/count.svg" />
-<a href="https://github.com/Anshluthra1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anshluthra1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ansh's github stats" />
+  <img src="https://profile-counter.glitch.me/KaushalDoshi/count.svg" />
+<a href="https://github.com/KaushalDoshi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KaushalDoshi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ansh's github stats" />
 </a>
-<a href="https://github.com/Anshluthra1/github-readme-stats">
+<a href="https://github.com/KaushalDoshi/github-readme-stats">
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anshluthra1&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaushalDoshi&layout=compact&theme=material-palenight" />
 </a>
