@@ -91,6 +91,8 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
  | 9       | How to crack interviews and most frequently asked questions     | 45                  | 4           |
  | 10      | Basic Template needed for quick process                         | 15                  | 1           |
  | 11      | Whole course                                                    | 350                 | 30          |
+ 
+ Description: Most often it has been observed that seniors are often busy with their day-to-day tasks and are either not available or treat new                                     beginners in a different way. Doubt about them, provide negative feedback to above managers. Plus, it is expected that a new developer should know                     technical concepts and training that is provided by seniors is mostly about products and how it works. There is no problem with seniors or                             new developers here both are correct from their end. There is a deep learning curve involved while developing productive skills in SQL. So, this course               has been designed keeping in mind that most of the frustration a developer does not have to go through. All basics needed have been covered. Now an                   expert can refer this course to developer, and they can become productive right from day 1. This course is for developers under 4 years of experience.                 The concepts are in SQL language and the great thing here is that other languages like Oracle, Postgre SQL, MySQL has same type of concepts so for                     them from this module 4,5,7,8,9,10 can be taken.
 
 ##  💬 HMU:
 
