@@ -77,9 +77,9 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 
 ## Trainings I provide - Professional SQL concepts and approach a developer should know from day 1 
 
-       | Module | Name | Time (in minutes) | Cost (in $) |
-       | ------- | -------- | -------- | -------- |
-       | 1 | How to debug most frequently encountered SQL errors | 20 | 4 |
+       | Module  | Name                                                | Time (in minutes)   | Cost (in $) |
+       |    ---: | --------------------------------------------------- |      :---:          |    :---:    |
+       | 1       | How to debug most frequently encountered SQL errors | 20                  | 4           |
 
 ##  💬 HMU:
 
@@ -101,7 +101,7 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
  
   <img src="https://profile-counter.glitch.me/KaushalDoshi/count.svg" />
 <a href="https://github.com/KaushalDoshi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KaushalDoshi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ansh's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KaushalDoshi&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Kaushal's github stats" />
 </a>
 <a href="https://github.com/KaushalDoshi/github-readme-stats">
   
