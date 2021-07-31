@@ -52,8 +52,11 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 
 ##  👀 LEARNINGS AND PURSUINGS
 
-- Completed BTECH in Electronics and Communication in 2012 ✌️ (Executive Program in Cyber Security and Risk Management 2019-2020) 🏫 
-- Completed Post Graduate Diploma in Advanced Computing from CDAC Mumbai JUHU
+- GSEB 10th Standard 84% 📝
+- GHSEB 12th Standard Science 80.80%  ⚡
+- Completed BTECH in Electronics and Communication in 2012 65% ✌️
+- Completed Post Graduate Diploma in Advanced Computing from CDAC Mumbai JUHU 2014-2015 58% 
+- Executive Program in Cyber Security and Risk Management 2019-2020 81% 🏫 
 - Certified Associate in Scrum Fundamentals (CASF)
 - ISO/IEC 27001 Information Security Associate
 - 70-461 Querying Microsoft SQL Server Certification
