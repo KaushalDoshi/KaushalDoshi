@@ -2,8 +2,7 @@
 <h3>Hey! This is KAUSHAL DOSHI </h3>
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
-<a href="index.html" title="About Me">About Me</a>
-<img src="ss.png">
+<img src="kaushal doshi.png">
 KAUSHAL'S LIFE <br>
 PROFESSIONAL
 I'M AN SMART|A TECH GEEK, PASSIONATE ABOUT TECHNOLOGY, MUSIC, MOVIES AND GAMES
