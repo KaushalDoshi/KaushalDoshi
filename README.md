@@ -73,8 +73,13 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 - ISO/IEC 27001 Information Security Associate
 - 70-461 Querying Microsoft SQL Server Certification
 - Lean Six Sigma Green Belt (Asian Institute of Quality Management – 70%)
-- Worked on project for Kalpakkam Nuclear Power Plant for Specifying details of all materials, Panel designing, PLC, Ladder Logic,SCADA and QAP at Gururaj Engineers in 2013✨ 
+- Worked on project for Kalpakkam Nuclear Power Plant for Specifying details of all materials, Panel designing, PLC, Ladder Logic,SCADA and QAP at Gururaj Engineers     in 2013✨ 
 
+## Trainings I provide - Professional SQL concepts and approach a developer should know from day 1 
+
+       | Module | Name | Time (in minutes) | Cost (in $) |
+       | ------- | -------- | -------- | -------- |
+       | 1 | How to debug most frequently encountered SQL errors | 20 | 4 |
 
 ##  💬 HMU:
 
