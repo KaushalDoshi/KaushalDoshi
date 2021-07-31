@@ -1,11 +1,11 @@
 <h1 style="font-family: 'JetBrains Mono'"> 👋 Hi There ! </h1>
 <h3>Hey! This is KAUSHAL DOSHI </h3>
 
-CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
+CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | TEACH ♐️ | CONSULT ♋️ 
 <img src="Capture.JPG">
 KAUSHAL'S LIFE <br>
 PROFESSIONAL
-I'M AN SMART|A TECH GEEK, PASSIONATE ABOUT TECHNOLOGY, MUSIC, MOVIES AND GAMES
+A TECH GEEK, PASSIONATE ABOUT TECHNOLOGY, MUSIC, MOVIES AND GAMES
 I DO CODE FOR PASHION AND LIFE, AND FOR THAT SMILE ON YOUR FACE!
 CONTENT WRITER AT TIMES, TECHNICAL ARTICLE AND BLOG WRITER!
 <br>
@@ -15,6 +15,18 @@ REACH ME FOR WORKS RELATED TO VIRTUAL ASSISTANT, DATABASE DEVELOPER, CLOUD DEVEL
 SUBJECT MATTER EXPERT FOR MATHEMATICS AND COMPUTER SCIENCE AT TRANSTUTORS AND MENTOR AT CODEMENTOR
 EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGANIZATION, GROWTH HACKER
 
+## Profile Overview:
+
+ - Total Experiences: - 7.9 years
+ - From June 2021 till date working with Navaera Worldwide as Team Leader -Software Engineering (SQL), 1 month 5 days
+ - From May 2016 till June 2021 working for Allscripts Healthcare India Pvt. Ltd., Vadodara as Systems Analyst, 5 years 10 days
+ - From March 2015 till April 1,2016 date worked for Cybage software Pvt. Ltd., Gandhinagar as a Software Engineer, 1.1 yrs
+ - From December 2012 till June 2014 with Gururaj Engineers Vadodara as a Automation Maintenance Engineer, 1.7 yrs
+ - Helped in improving performance of systems by 75%, reduce development and maintenance time by 1500+ hours total. Improve quality of product. Provide new              product ideas and implement them to keep developing new company verticals.
+ - Have master’s in advanced computing and executive post graduate program in cybersecurity and risk management.
+ - Technology Stack: Business Intelligence, Database, Automation (PLC)
+ - Awards: Solution Seeker, Dedicated Professional, Community Builder,2 Promotions.
+ 
 ## ⚡ Languages/Tech:
 <p>	
 <img src = "https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30">
@@ -79,7 +91,7 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
  - 💻 DELL DESKTOP OPTIPLEX 7020 I7 -13.3INCH-256SSD
  - LOGI HEADPHONES ⌨️ KEYBOARD AND 🐭 MOUSE
  - SKULLCANDY EARPHONES 🎧 
-			
+
  ### Profile Views :<br>
  
   <img src="https://profile-counter.glitch.me/KaushalDoshi/count.svg" />
