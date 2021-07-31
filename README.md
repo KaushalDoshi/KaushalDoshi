@@ -78,9 +78,19 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 ## Trainings I provide - Professional SQL concepts and approach a developer should know from day 1 
 
       
- | Module  | Name                                                | Time (in minutes)   | Cost (in $) |
- |--------:|-----------------------------------------------------|:-------------------:|:-----------:|
- | 1       | How to debug most frequently encountered SQL errors | 20                  | 4           |
+ | Module  | Name                                                            | Time (in minutes)   | Cost (in $) |
+ |--------:|-----------------------------------------------------            |:-------------------:|:-----------:|
+ | 1       | How to debug most frequently encountered SQL errors             | 30                  | 4           |
+ | 2       | Optimizing Query techniques                                     | 45                  | 4           |
+ | 3       | Tools and techniques for doing SQL tasks quickly                | 30                  | 4           |
+ | 4       | How to debug/comment/find error in any query                    | 20                  | 2           |
+ | 5       | Advanced concept on how to reduce maintenance                   | 45                  | 4           |
+ | 6       | Most common functions needed and user defined functions         | 45                  | 4           |
+ | 7       | Concepts to know about Indexes and Joins                        | 45                  | 4           |
+ | 8       | Advanced concept to know about datatypes & implicit conversion  | 30                  | 3           |
+ | 9       | How to crack interviews and most frequently asked questions     | 45                  | 4           |
+ | 10      | Basic Template needed for quick process                         | 15                  | 1           |
+ | 11      | Whole course                                                    | 350                 | 30          |
 
 ##  💬 HMU:
 
