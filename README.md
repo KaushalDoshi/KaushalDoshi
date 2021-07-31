@@ -2,6 +2,7 @@
 <h3>Hey! This is KAUSHAL DOSHI </h3>
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
+<a href="index.html" title="About Me">About Me</a>
 <img src="ss.png">
 KAUSHAL'S LIFE <br>
 PROFESSIONAL
