@@ -77,6 +77,7 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 
 ## Trainings I provide - Professional SQL concepts and approach a developer should know from day 1 
 
+      
        | Module  | Name                                                | Time (in minutes)   | Cost (in $) |
        |    ---: | --------------------------------------------------- |      :---:          |    :---:    |
        | 1       | How to debug most frequently encountered SQL errors | 20                  | 4           |
