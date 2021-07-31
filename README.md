@@ -79,7 +79,7 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 
       
        | Module  | Name                                                | Time (in minutes)   | Cost (in $) |
-       |    ---: | --------------------------------------------------- |      :---:          |    :---:    |
+       |--------:|-----------------------------------------------------|:-------------------:|:-----------:|
        | 1       | How to debug most frequently encountered SQL errors | 20                  | 4           |
 
 ##  💬 HMU:
