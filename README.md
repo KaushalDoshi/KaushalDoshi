@@ -3,7 +3,7 @@
 
 CODE 👨‍💻| FOOD🍟🌭| SLEEP 😴 💤 | REPEAT♐️♋️ 
 <img src="ss.png">
-KAUSHAL'S LIFE
+KAUSHAL'S LIFE <br>
 PROFESSIONAL
 I'M AN SMART|A TECH GEEK, PASSIONATE ABOUT TECHNOLOGY, MUSIC, MOVIES AND GAMES
 I DO CODE FOR PASHION AND LIFE, AND FOR THAT SMILE ON YOUR FACE!
@@ -52,32 +52,30 @@ EXPERT IN PROVIDING TECHNICAL CONSULTING, SIX SIGMA CONSULTING, SETUP A NEW ORGA
 
 ##  👀 LEARNINGS AND PURSUINGS
 
-- Currently an BTECH ✌️ CSE(1STY)  ALUMNI AT CHITKARA UNIVERISTY 🏫 
-- Uptook "Introduction to CLOUD ⛅️ COMPUTING BY IBM" on Edx
-- Part of the honoury "cs-50 introduction to the COMPUTER SCIENCE by the HARVARD UNIVERISTY"
-- Also a part of the Introduction to web technologies🌏 by Stanford University-online mode"
-- part of the industrial training in CYBER🧠👣 security BY INMOVIDU AND E-CELL IITK
-- Participated in E-CONCLAVE 2021 organized by IIT-BOMBAY
-- Also a part of the Introduction to GAME-DEVELOPMENT✨ by Stanford University-online mode"
+- Completed BTECH in Electronics and Communication in 2012 ✌️ (Executive Program in Cyber Security and Risk Management 2019-2020) 🏫 
+- Completed Post Graduate Diploma in Advanced Computing from CDAC Mumbai JUHU
+- Certified Associate in Scrum Fundamentals (CASF)
+- ISO/IEC 27001 Information Security Associate
+- 70-461 Querying Microsoft SQL Server Certification
+- Lean Six Sigma Green Belt (Asian Institute of Quality Management – 70%)
+- Worked on project for Kalpakkam Nuclear Power Plant for Specifying details of all materials, Panel designing, PLC, Ladder Logic,SCADA and QAP at Gururaj Engineers in 2013✨ 
 
 
 ##  💬 HMU:
 
- <a href="https://www.linkedin.com/in/ansh-luthra-016452117//"><img src="https://img.shields.io/badge/IN---ANSH%20LUTHRA-blue"></a> 
- <a href="https://twitter.com/Anshluthra34"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAnshluthra34"></a> 
- <a href="mailto:anshluthra002.gmail.com"><img src="https://img.shields.io/badge/GMAIL-anshluthra002%40gmail.com-red"></a>
- <a  href="https://www.instagram.com/anshluthraa1/"><img src="https://img.shields.io/badge/INSTAGRAM-anshluthraa1-red"></a>
- <a href="https://accounts.snapchat.com/accounts/snapcodes"><img src="https://img.shields.io/badge/snap%F0%9F%91%BB---ansh.112-yellow"></a>
+ <a href="https://www.linkedin.com/in/kaushal-doshi-b482ab37//"><img src="https://img.shields.io/badge/IN---KAUSHAL%20DOSHI-blue"></a> 
+ <a href="https://twitter.com/kaushycreativty"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkaushycreativty"></a> 
+ <a href="mailto:doshikaushal007@gmail.com"><img src="https://img.shields.io/badge/GMAIL-doshikaushal007%40gmail.com-red"></a>
+
 
 ##  💻 gadgets/ tech I work with:
 
- - IDE: PyCharm 🤖
+ - Tool: Visual Studio, SQL Server Management Studio 🤖
  - Text Editors: ATOM🔥 , Sublime Text☠️, Brackets🤡,notepad++ 📝  
  - Terminal: Powershell
- - 💻 MACBOOK PRO-2020- I5 -13.3INCH-256SSD
- - IBALL MYSTIC WIRELESS ⌨️ KEYBOARD AND 🐭 MOUSE
- - CIRCLE ⭕️ HUB
- - PORTRONICS MUFFS M HEADPHONES 🎧 -220
+ - 💻 DELL DESKTOP OPTIPLEX 7020 I7 -13.3INCH-256SSD
+ - LOGI HEADPHONES ⌨️ KEYBOARD AND 🐭 MOUSE
+ - SKULLCANDY EARPHONES 🎧 
 			
  ### Profile Views :<br>
  
